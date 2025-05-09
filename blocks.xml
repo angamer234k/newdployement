@@ -254,7 +254,7 @@
   <block type="s4d_login" id="{tOEk?4Bl:-5TK2$/B7b" x="227" y="700">
     <value name="TOKEN">
       <shadow type="text" id="_9|R?v]}(Y6c^N:$w*9C">
-        <field name="TEXT">MTM2OTk2NTI2NDI3OTU2ODQwNQ.GJW1DK.Ta2lhOfjZiLXPCF9tcIkIjKx4Zvfv1RM2qVs4Y</field>
+        <field name="TEXT">----</field>
       </shadow>
       <block type="frost_env" id="D$ebh(k][t9f}fHh%MKU">
         <value name="VALUE">
